@@ -1,0 +1,89 @@
+img {
+  width: 200px;
+  display: block;
+  margin: 1px 30px 1px 1px;
+}
+.imagine {
+  width: 25px;
+  display: inline-block;
+}
+.imgg {
+  width: 90px;
+  display: inline-block;
+}
+.img2 {
+  width: 100px;
+  display: inline-block;
+}
+a {
+  text-decoration: none;
+  margin: 10px 10px 10px 230px;
+}
+
+.buton1 {
+  background-color: #2f0147;
+  color: #ffffff;
+  display: block;
+  padding: 10px 10px 10px 50px;
+  margin: 30px 20px 50px 10px;
+  border-radius: 80px;
+  font-weight: 400;
+  text-decoration: none;
+}
+.buton2 {
+  background-color: #610f7f;
+  color: #ffffff;
+  display: block;
+  padding: 10px 10px 10px 50px;
+  margin: 30px 20px 50px 10px;
+  border-radius: 80px;
+  font-weight: 400;
+  text-decoration: none;
+}
+.buton3 {
+  background-color: #9c528b;
+  color: #ffffff;
+  display: block;
+  padding: 10px 10px 10px 50px;
+  margin: 30px 20px 50px 10px;
+  border-radius: 80px;
+  font-weight: 400;
+  text-decoration: none;
+}
+.buton4 {
+  background-color: #610f7f;
+  color: #ffffff;
+  display: block;
+  padding: 10px 20px;
+  margin: 30px 20px 10px 10px;
+  border-radius: 80px;
+  font-weight: 400;
+  text-decoration: none;
+}
+.buton5 {
+  background-color: #9c528b;
+  color: #ffffff;
+  display: block;
+  padding: 10px 25px;
+  margin: 30px 20px 10px 10px;
+  border-radius: 80px;
+  font-weight: 400;
+  text-decoration: none;
+}
+.buton6 {
+  background-color: #2f0147;
+  color: #ffffff;
+  display: block;
+  padding: 10px;
+  margin: 30px 20px 50px 10px;
+  border-radius: 80px;
+  font-weight: 400;
+  text-decoration: none;
+}
+.dm {
+  margin: 10px 10px 70px;
+}
+body {
+  background-color: #e2c2c6;
+  font-family: "Dancing Script", cursive;
+}
